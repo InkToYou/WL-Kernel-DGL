@@ -1,3 +1,10 @@
-*/__pycache__/
-*/.pytest_cache/
-*/.DS_Store
+**/__pycache__
+**/.pytest_cache
+**/.DS_Store
+**/.vscode
+*~
+*.swp
+*.log
+*.bak
+~$*
+*.env
